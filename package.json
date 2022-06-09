@@ -143,7 +143,7 @@
     "@types/react-transition-group": "^2.0.16",
     "@types/react-virtualized-auto-sizer": "^1.0.1",
     "@types/react-window": "^1.8.5",
-    "@types/sanitize-html": "^2.3.2",
+    "@types/sanitize-html": "^2.6.2",
     "@types/shortid": "^0.0.29",
     "@types/sinon": "^7.0.2",
     "@types/spark-md5": "^3.0.1",
