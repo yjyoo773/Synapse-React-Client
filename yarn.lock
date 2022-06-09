@@ -3664,7 +3664,7 @@
   dependencies:
     "@types/react" "*"
 
-"@types/react@*", "@types/react@>=16.14.8", "@types/react@>=16.9.0", "@types/react@>=16.9.11", "@types/react@^15", "@types/react@^16", "@types/react@^16.14.23", "@types/react@^17.0.1":
+"@types/react@*", "@types/react@>=16.14.8", "@types/react@>=16.9.0", "@types/react@>=16.9.11", "@types/react@^15", "@types/react@^16", "@types/react@^16.14.23", "@types/react@^17.0.38":
   version "16.14.23"
   resolved "https://registry.yarnpkg.com/@types/react/-/react-16.14.23.tgz#37201b9f2324c5ff8fa4600dbf19079dfdffc880"
   integrity sha512-WngBZLuSkP4IAgPi0HOsGCHo6dn3CcuLQnCfC17VbA7YBgipZiZoTOhObwl/93DsFW0Y2a/ZXeonpW4DxirEJg==
@@ -3900,19 +3900,19 @@
     "@typescript-eslint/types" "5.13.0"
     eslint-visitor-keys "^3.0.0"
 
-"@upsetjs/model@~1.9.1":
-  version "1.9.1"
-  resolved "https://registry.yarnpkg.com/@upsetjs/model/-/model-1.9.1.tgz"
-  integrity sha512-CI34OPv4jsRAieZBILL+dx9/tnwfv/XwmBaOKkI0Z1iyPjOyMA5YkLXUhcidjlXKRwZ1U1siD73IinC73pCJHQ==
+"@upsetjs/model@~1.11.0":
+  version "1.11.0"
+  resolved "https://registry.yarnpkg.com/@upsetjs/model/-/model-1.11.0.tgz#6d80e826571f65ad13cb0a21cb020f385654c34f"
+  integrity sha512-pQEdunei2WC9mdhFR6umzE45j8VJfei/cG0TyVaaC0YE5zh1WI/TJRJJQC5jCiGhylISy99ANJs6XmQI33lqCw==
 
-"@upsetjs/react@^1.6.2":
-  version "1.9.1"
-  resolved "https://registry.yarnpkg.com/@upsetjs/react/-/react-1.9.1.tgz"
-  integrity sha512-fyjlyDAXDS14+S360Huj8lmfTOiPwviFlvEQzA00DHJwA7LVuLiOO1TUUizAgt468QuIcSVXIQARkxQVX32Wiw==
+"@upsetjs/react@^1.11.0":
+  version "1.11.0"
+  resolved "https://registry.yarnpkg.com/@upsetjs/react/-/react-1.11.0.tgz#c05ef36dfb4c3efcd0edb33198e5b9a1b50cf66c"
+  integrity sha512-APDFkXowPk1U94Iz5dtzpjcSiR5GcJkhLdMdeTnyLDYxIBf1mA+ElbBrEdAzaSGCiZo76ZKfgmuCMSMEfLtN8g==
   dependencies:
     "@types/lz-string" "^1.3.34"
-    "@types/react" "^17.0.1"
-    "@upsetjs/model" "~1.9.1"
+    "@types/react" "^17.0.38"
+    "@upsetjs/model" "~1.11.0"
     lz-string "^1.4.4"
 
 "@vxna/mini-html-webpack-template@^2.0.0":
