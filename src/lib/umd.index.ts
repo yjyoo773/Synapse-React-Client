@@ -40,6 +40,7 @@ import TermsAndConditions from './containers/TermsAndConditions'
 import { displayToast, SynapseToastContainer } from './containers/ToastMessage'
 import { TrashCanList } from './containers/trash/TrashCanList'
 import { OAuthManagement } from './containers/oauth/OAuthManagement'
+import CertificationQuiz from './containers/CertificationQuiz'
 import UserCard from './containers/UserCard'
 import UserProfileLinks from './containers/user_profile_links/UserProfileLinks'
 import { ProvenanceGraph } from './containers/provenance/ProvenanceGraph'
@@ -103,6 +104,7 @@ const SynapseComponents = {
   ProvenanceGraph,
   TrashCanList,
   OAuthManagement,
+  CertificationQuiz,
 }
 
 // Include the version in the build
