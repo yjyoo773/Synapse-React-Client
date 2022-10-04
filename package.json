@@ -160,7 +160,7 @@
     "@vitejs/plugin-legacy": "^2.0.1",
     "@vitejs/plugin-react": "^2.0.1",
     "@welldone-software/why-did-you-render": "^7.0.1",
-    "babel-jest": "^28.1.1",
+    "babel-jest": "^29.1.2",
     "babel-loader": "^8.2.5",
     "browserify-fs": "^1.0.0",
     "buffer": "^6.0.3",
