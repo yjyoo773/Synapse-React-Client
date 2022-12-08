@@ -75,7 +75,7 @@
     "react-popper": "^2.2.5",
     "react-query": "3.39.1",
     "react-reflex": "^4.0.0",
-    "react-router-dom": "^5.3.3",
+    "react-router-dom": "^6.4.5",
     "react-select": "^5.4.0",
     "react-sizeme": "^2.6.12",
     "react-switch": "^5.0.1",
