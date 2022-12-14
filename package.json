@@ -57,7 +57,7 @@
     "markdown-it-synapse-heading": "^1.0.1",
     "markdown-it-synapse-math": "^3.0.4",
     "markdown-it-synapse-table": "^1.0.6",
-    "plotly.js-basic-dist": "^2.11.1",
+    "plotly.js-basic-dist": "^2.16.5",
     "pluralize": "^8.0.0",
     "raf": "^3.4.1",
     "react-app-polyfill": "^3.0.0",
